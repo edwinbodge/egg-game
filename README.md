@@ -1,6 +1,7 @@
 # Feed Eggs Game
 
 This is the feed eggs game from [Tim Robinson](https://www.imdb.com/name/nm4200503/)'s "[I Think You Should Leave](https://www.netflix.com/title/80986854)" Season 3 Episode 2
+This was forked from the repo: https://github.com/EA914/Egg-Game with some minor edits
 
 ## Instructions
 1. Clone repo
