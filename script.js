@@ -8423,11 +8423,11 @@ qo.exports.default = Af;
 qo.exports.DraggableCore = Jg;
 var qg = qo.exports;
 const bg = Oi(qg);
-const em = "/assets/basket.png",
-    tm = "/assets/EGG.png",
-    nm = "/assets/openmoutheggup.png",
-    rm = "/assets/openmoutheggdown.png",
-    om = "/assets/closedmoutheggup.png";
+const em = "assets/basket.png",
+    tm = "assets/EGG.png",
+    nm = "assets/openmoutheggup.png",
+    rm = "assets/openmoutheggdown.png",
+    om = "assets/closedmoutheggup.png";
 const Tr = "data:audio/mpeg;base64,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";
 var kf = {},
     _f = {},
@@ -9068,8 +9068,8 @@ const ht = Oi(kf),
             })]
         })
     },
-    sm = "/assets/egg-walking.gif",
-    cm = "/assets/bare-back-balls-butt.gif",
+    sm = "assets/egg-walking.gif",
+    cm = "assets/bare-back-balls-butt.gif",
     fm = e => {
         const t = Y.useRef(!0);
         const [showBirthdayMessage, setShowBirthdayMessage] = Y.useState(false);
@@ -9226,7 +9226,7 @@ const ht = Oi(kf),
             })
         })
     },
-    dm = "/assets/egg-butt-frame.png",
+    dm = "assets/egg-butt-frame.png",
     pm = () => (console.log(``), U("div", {}));
 
 function gm() {
